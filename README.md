@@ -6,3 +6,5 @@ O Arquivo Cod_Projecoes_Mun.R é o código apenas em R com os comentários origi
 O Arquivo Projeções_noteebok.rmd é um notebook em R com os comentários escritos em Markdown, para melhor entendimento e o código em R
 
 O Arquivo Projeções_notebook.html é o arquivo html gerado pelo código em Markdown.
+
+Mudança 1
