@@ -8,3 +8,6 @@ O Arquivo Projeções_noteebok.rmd é um notebook em R com os comentários escri
 O Arquivo Projeções_notebook.html é o arquivo html gerado pelo código em Markdown.
 
 Mudança 1
+
+Mudança 2
+
